@@ -1,0 +1,14 @@
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\WinLogin.exe.config
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\WinLogin.exe
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\WinLogin.pdb
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\Newtonsoft.Json.dll
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Younger\ScanQRCodeToLogin\WinLogin\bin\Debug\Newtonsoft.Json.xml
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.csprojResolveAssemblyReference.cache
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.Cache
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.exe
+D:\Younger\ScanQRCodeToLogin\WinLogin\obj\Debug\WinLogin.pdb
